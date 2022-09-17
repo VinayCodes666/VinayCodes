@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VinayKamal
-- ⚡ Quick bio: Programmer, Software Tester (Automation + Manual Tester), Gymmer.
+- ⚡ Quick bio: Programmer, Software Tester, Gymmer, Keen Learner, Consistent , Disciplined.
 - 👀 I’m interested in becoming a FullStack Developer.
 - 🌱 I’m currently learning HTML, CSS and JavaScript, Gherkins, Cucumber.
 - 🔭 I’m currently working : as an Intern at HCL Technologies Ltd. at Bengaluru.
